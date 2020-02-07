@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In the Advanced Regular Expressions lesson, you learned about the various components of regular expressions as well as how to use them both in isolation and together with other components.
+ In the Advanced Regular Expressions lesson, you learned about the various components of regular expressions as well as how to use them both in isolation and together with other components.
 
 In this lab, you will practice putting together your own regular expressions from scratch. Some of the examples are similar to the ones we went over in the lesson, while others have slight modifications included to test your knowledge and ensure that you grasp the concepts covered.
 
